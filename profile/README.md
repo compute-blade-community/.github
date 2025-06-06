@@ -2,10 +2,10 @@
 
 This is the GitHub home for community-driven projects around the [Compute Blade](https://computeblade.com) by [Uptime Industries](https://uptime.industries/).
 
-Here you'll find open-source tools, integrations, utilities, and experiments built *by the community, for the community*. Whether you're extending the firmware, building monitoring dashboards, or hacking together automation scripts, this is the place to share and collaborate.
+Here you'll find open-source tools, integrations, utilities, and experiments built _by the community, for the community_. Whether you're extending the firmware, building monitoring dashboards, or hacking together automation scripts, this is the place to share and collaborate.
 
 <p align="center">
-    <img alt="compute-blade-community logo" width="200" src="https://github.com/compute-blade-community/.github/blob/main/assets/image/logo.png">
+    <img alt="compute-blade-community logo" height="150" src="https://github.com/compute-blade-community/.github/blob/main/assets/image/logo.png">
 </p>
 
 ## Contribute and Collaborate
@@ -26,5 +26,4 @@ We encourage makers, developers, and hardware hackers to get involved:
 
 ---
 
-> *This org is maintained by the community and for the community. While not officially supported by Uptime Industries, projects here often receive valuable input from the team and other enthusiasts.*
-> *Let's build cool stuff together! 🚀*
+> _This org is maintained by the community and for the community. While not officially supported by Uptime Industries, projects here often receive valuable input from the team and other enthusiasts._ > _Let's build cool stuff together! 🚀_
