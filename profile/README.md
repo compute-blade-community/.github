@@ -1,12 +1,12 @@
-<p align="center">
-    <img src="https://github.com/compute-blade-community/.github/blob/main/assets/image/logo-rounded-corner.png">
-</p>
-
 ## Welcome to the Compute Blade Community
 
 This is the GitHub home for community-driven projects around the [Compute Blade](https://computeblade.com) by [Uptime Industries](https://uptime.industries/).
 
 Here you'll find open-source tools, integrations, utilities, and experiments built *by the community, for the community*. Whether you're extending the firmware, building monitoring dashboards, or hacking together automation scripts, this is the place to share and collaborate.
+
+<p align="center">
+    <img alt="compute-blade-community logo" width="200" src="https://github.com/compute-blade-community/.github/blob/main/assets/image/logo-rounded-corner.png">
+</p>
 
 ## Contribute and Collaborate
 
