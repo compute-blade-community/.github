@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/compute-blade-community/.github/blob/main/assets/image-logo-rounded-corner.png">
+    <img src="https://github.com/compute-blade-community/.github/blob/main/assets/image/logo-rounded-corner.png">
 </p>
 
 ## Welcome to the Compute Blade Community
